@@ -1,0 +1,44 @@
+Input: 0
+Output: Number of rounds needed to restore:  1
+Input: 1
+Output: Number of rounds needed to restore:  1.0
+Input: 1 
+Output: Number of rounds needed to restore:  1.0
+Input: 52
+Output: Number of rounds needed to restore:  510.0
+Input: -1
+Output: Number of cards should be one non-negative integer.
+Input: 19999
+Output: Number of rounds needed to restore:  7.714184218698266e+28
+Input: 100001
+Output: Number of rounds needed is too large. Please input smaller than 100000
+Input: 001
+Output: Number of rounds needed to restore:  1.0
+Input:   1
+Output: Number of rounds needed to restore:  1.0
+Input: a
+Output: Number of cards should be one non-negative integer.
+Input:  b
+Output: Number of cards should be one non-negative integer.
+Input: a 
+Output: Number of cards should be one non-negative integer.
+Input: ;asdf
+Output: Number of cards should be one non-negative integer.
+Input: 2a
+Output: Number of cards should be one non-negative integer.
+Input: 100
+Output: Number of rounds needed to restore:  120.0
+Input: 97
+Output: Number of rounds needed to restore:  6435.0
+Input: 31
+Output: Number of rounds needed to restore:  210.0
+Input: 1 2
+Output: Number of cards should be one non-negative integer.
+Input: 1 a
+Output: Number of cards should be one non-negative integer.
+Input: b 99
+Output: Number of cards should be one non-negative integer.
+Input:  
+Output: Number of cards should be one non-negative integer.
+Input: 1e3
+Output: Number of cards should be one non-negative integer.

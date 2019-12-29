@@ -30,5 +30,5 @@ or
 Use command line and follow the command:  
 	```$Usage: shuffle.py <deck size>```  
 or  
-Generate your own test data followed the fomat in test_data.txt.
+Generate your own test data followed the fomat in `test_data.txt`.
 Each row in the text file should only include one test case.
